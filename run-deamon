@@ -1,0 +1,5 @@
+hash iri 2>/dev/null
+if [ $? != 0 ]; then
+  bash install-deamon
+fi
+iri --config iri.config

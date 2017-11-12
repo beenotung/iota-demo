@@ -1,0 +1,4 @@
+node_modules/
+mainnet.log/
+mainnetdb/
+yarn.lock
